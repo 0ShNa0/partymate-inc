@@ -24,4 +24,4 @@
 [Deployed Link](https://partymate-inc.streamlit.app/)
 
 
-/**Built with streamlit,Cohere API**
+/**Built with streamlit,Cohere API in Python**
