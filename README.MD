@@ -21,7 +21,7 @@
 
 
 #### Try it out here!
-[Deployed Link](https://travel-support-bot.streamlit.app)
+[Deployed Link](https://partymate-inc.streamlit.app/)
 
 
 /**Built with streamlit,Cohere API**
